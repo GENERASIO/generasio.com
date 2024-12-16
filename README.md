@@ -1,0 +1,2 @@
+# generasio.com
+generasio store
